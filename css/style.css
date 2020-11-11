@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+*      
+Estilo para contéido do nosso site.
+*
+*/
+
+.lista{
+    list-style-position: inside;
+    list-style-type: disc;    
+}
+
+.lista li{
+     
+}
